@@ -1,2 +1,3 @@
-# pdf_generate
-Simple PDF generator using csv with three columns
+# Excel to PDF Invoice Generator
+
+A simple project to generate pdf invoice from excel.
